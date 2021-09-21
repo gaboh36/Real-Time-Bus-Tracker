@@ -1,4 +1,4 @@
-# Real-Time-Bus-Tracker-
+# Real-Time-Bus-Tracker
 MIT project week 9
 Route between my house and my work.
 
